@@ -1,0 +1,8 @@
+.imagem {
+  height: 390px;
+  width: 420px;
+}
+.imagem img {
+  width: 100%;
+  height: 100%;
+}
